@@ -47,3 +47,8 @@ If it’s smart, quirky, or looks cool on the frontend *and* backend — I proba
 | VS Code theme = identity crisis | git push --force and prayed | Broke production on Friday | Named file: final_final_v2.js | Figma handoff? Pain. |
 | Quiz too smart for me | “5 more mins” to fix a bug | Learned lib to avoid real work | Coded in wrong file for 30 mins | Worked on friend’s laptop, not mine |
 
+
+## 🐍 GitHub Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/Harini-win/Harini-win/output/github-contribution-grid-snake.svg)
+
