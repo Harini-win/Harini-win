@@ -19,15 +19,15 @@ Hi there! I'm **Harini**, a passionate and curious Computer Science student at V
 I love building smart, impactful tech — from LLM-powered adaptive quiz apps to real-time network simulations in NS-3.  
 
 - 🔭 Currently working on: A **smart quiz platform** powered by fine-tuned LLMs  
-- 🌱 Learning: **React.js**, **Next.js**, and everything about **AI/ML + Systems**  
-- 📫 Reach me: [harini.email@example.com](mailto:harini.email@example.com)  
+- 🌱 Learning: **Three.js**, **Node.js**, and everything about **AI/ML + Systems**  
+- 📫 Reach me: [harini.selvakummar@gmail.com](mailto:harini.selvaakummar@gmail.com)  
 - 🧠 Fun fact: I’ve been learning **Bharatanatyam** for 10+ years!  
-- 🏆 Hackathon Rank: Top 3% in a 547-team IoT hackathon  
+- 🏆 Hackathon Rank: Rank 13 in a 547-team hackathon  
 
 ---
 
 ## 🛠️ Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,python,c,cpp,java,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,three.js,tailwind,excel,python,c,cpp,java,git,github,vscode)
 
 ---
 
@@ -40,19 +40,18 @@ I love building smart, impactful tech — from LLM-powered adaptive quiz apps to
 ---
 
 ## 📌 Projects Worth Checking:
-- 🎓 [FlavourRhythm](https://github.com/yourusername/flavourrhythm) – Smart Kitchen Recipe Assistant using IoT  
-- ⚙️ [ORWAR in NS-3](https://github.com/yourusername/orwar-ns3) – Custom Routing Protocol Simulation  
-- 📊 [Smart Quiz App](https://github.com/yourusername/smart-quiz) – Adaptive Learning powered by LLMs  
+- 🎓 [FlavourRhythm](https://github.com/Harini-win/backend-flavourrthym) – Smart Kitchen Recipe Assistant 
+- ⚙️ [Github Analytics]([https://github.com/Harini-win/stockholm-github-users]) – Custom Routing Protocol Simulation  
 
 ---
 
 ## 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/your-link)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=vercel&style=flat)](https://your-portfolio-link.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)]([https://www.linkedin.com/in/harini-s-4b127428b/])  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=vercel&style=flat)]([https://harini-flqo.onrender.com/])
 
 ---
 
 <!-- Use this to add visitor count -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat&color=blue" alt="GitHub Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Harini-win&style=flat&color=blue" alt="GitHub Profile Views" />
 </p>
