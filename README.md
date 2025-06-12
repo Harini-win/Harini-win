@@ -35,4 +35,24 @@ If it’s smart, quirky, or looks cool on the frontend *and* backend — I proba
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Harini-win&style=flat&color=blue" alt="GitHub Profile Views" />
 </p>  
+[ ] Added "temporary" console.log that lives forever  
+[ ] Forgot a semicolon and broke the build  
+[ ] Dark mode > Light mode  
+[ ] Wrote code that worked. Don’t know how  
+[ ] "It worked yesterday"  
+[ ] Committed with message: "fix"  
+[ ] Fought Tailwind spacing for an hour  
+[ ] Debugged more than coded  
+[ ] LLM said “I'm not sure about that…”  
+[ ] npm install broke everything  
+[ ] VS Code theme changed = personality reset  
+[ ] Git push –force and prayed  
+[ ] Broke production (just test prod 💁‍♀️)  
+[ ] Named file: `final_final_final_version2.js`  
+[ ] Figma > Dev handoff chaos  
+[ ] Wrote a smart quiz that’s too smart for me  
+[ ] Promised “5 more mins” to fix a bug  
+[ ] Learned a new library to avoid doing real work  
+[ ] Accidentally coded in the wrong file for 30 mins  
+[ ] Code worked on friend's laptop but not yours  
 
