@@ -38,5 +38,12 @@ If it’s smart, quirky, or looks cool on the frontend *and* backend — I proba
 
 ---
 
-<img src="https://readme-bingo.vercel.app/api/bingo?labels=Added%20console.log%20that%20lives%20forever,Forgot%20semicolon%20broke%20build,Dark%20mode%20%3E%20Light%20mode,Code%20worked%20no%20idea%20how,%22It%20worked%20yesterday%22,Commit%20message%3A%20fix,Fought%20Tailwind%20spacing,Debugged%20more%20than%20coded,LLM%20said%20not%20sure,npm%20install%20broke%20all,Theme%20change%20personality%20reset,Push%20--force%20and%20pray,Broke%20production,final_final_v2.js,Figma%20handoff%20chaos,Smart%20quiz%20too%20smart,5%20more%20mins%20bug,Learned%20lib%20to%20avoid%20work,Coded%20in%20wrong%20file,Works%20on%20friend's%20laptop" alt="Dev Bingo"/>
+## Harini’s Dev Bingo
+“Cross 5 in a row and you get… existential dread?”
+| ✅ | 🟥 | ⬜ | 🟥 | ⬜ |
+|----|----|----|----|----|
+| Added console.log that lives forever | Forgot semicolon, broke build | Dark mode > Light mode | Code worked. Don’t know how | "It worked yesterday" |
+| Committed with message: "fix" | Fought Tailwind spacing for hours | Debugged more than coded | LLM said “I'm not sure…” | npm install broke everything |
+| VS Code theme = identity crisis | git push --force and prayed | Broke production on Friday | Named file: final_final_v2.js | Figma handoff? Pain. |
+| Quiz too smart for me | “5 more mins” to fix a bug | Learned lib to avoid real work | Coded in wrong file for 30 mins | Worked on friend’s laptop, not mine |
 
