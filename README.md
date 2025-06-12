@@ -38,24 +38,5 @@ If it’s smart, quirky, or looks cool on the frontend *and* backend — I proba
 
 ---
 
-[ ] Added "temporary" console.log that lives forever  
-[ ] Forgot a semicolon and broke the build  
-[ ] Dark mode > Light mode  
-[ ] Wrote code that worked. Don’t know how  
-[ ] "It worked yesterday"  
-[ ] Committed with message: "fix"  
-[ ] Fought Tailwind spacing for an hour  
-[ ] Debugged more than coded  
-[ ] LLM said “I'm not sure about that…”  
-[ ] npm install broke everything  
-[ ] VS Code theme changed = personality reset  
-[ ] Git push –force and prayed  
-[ ] Broke production (just test prod 💁‍♀️)  
-[ ] Named file: `final_final_final_version2.js`  
-[ ] Figma > Dev handoff chaos  
-[ ] Wrote a smart quiz that’s too smart for me  
-[ ] Promised “5 more mins” to fix a bug  
-[ ] Learned a new library to avoid doing real work  
-[ ] Accidentally coded in the wrong file for 30 mins  
-[ ] Code worked on friend's laptop but not yours  
+<img src="https://readme-bingo.vercel.app/api/bingo?labels=Added%20console.log%20that%20lives%20forever,Forgot%20semicolon%20broke%20build,Dark%20mode%20%3E%20Light%20mode,Code%20worked%20no%20idea%20how,%22It%20worked%20yesterday%22,Commit%20message%3A%20fix,Fought%20Tailwind%20spacing,Debugged%20more%20than%20coded,LLM%20said%20not%20sure,npm%20install%20broke%20all,Theme%20change%20personality%20reset,Push%20--force%20and%20pray,Broke%20production,final_final_v2.js,Figma%20handoff%20chaos,Smart%20quiz%20too%20smart,5%20more%20mins%20bug,Learned%20lib%20to%20avoid%20work,Coded%20in%20wrong%20file,Works%20on%20friend's%20laptop" alt="Dev Bingo"/>
 
