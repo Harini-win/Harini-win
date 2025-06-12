@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Heyy, I'm **Harini** — caffeine-fueled CSE student at VIT Chennai, trying to automate life one side project at a time 😎  
+Heyy, I'm **Harini** — tea-fueled CSE student at VIT Chennai, trying to automate life one side project at a time 😎  
 If it’s smart, quirky, or looks cool on the frontend *and* backend — I probably built it or broke it trying.  
 
 - 🔭 Currently brewing: A **smart quiz app** that levels up (literally) as you do 🎯  
