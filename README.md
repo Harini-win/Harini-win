@@ -35,6 +35,9 @@ If it’s smart, quirky, or looks cool on the frontend *and* backend — I proba
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Harini-win&style=flat&color=blue" alt="GitHub Profile Views" />
 </p>  
+
+---
+
 [ ] Added "temporary" console.log that lives forever  
 [ ] Forgot a semicolon and broke the build  
 [ ] Dark mode > Light mode  
