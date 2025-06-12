@@ -27,21 +27,15 @@ I love building smart, impactful tech — from LLM-powered adaptive quiz apps to
 ---
 
 ## 🛠️ Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,three.js,tailwind,excel,python,c,cpp,java,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,three,tailwind,python,c,cpp,java,git,github,vscode)
 
----
 
-## 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Harini's GitHub stats" width="45%"/>
-  <img src="https://streak-stats.demolab.com/?user=your-github-username&theme=radical" alt="GitHub Streak" width="45%"/>
-</p>
 
 ---
 
 ## 📌 Projects Worth Checking:
 - 🎓 [FlavourRhythm](https://github.com/Harini-win/backend-flavourrthym) – Smart Kitchen Recipe Assistant 
-- ⚙️ [Github Analytics]([https://github.com/Harini-win/stockholm-github-users]) – Custom Routing Protocol Simulation  
+- ⚙️ [Github Analytics](https://github.com/Harini-win/stockholm-github-users) – Custom Routing Protocol Simulation  
 
 ---
 
