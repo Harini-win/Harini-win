@@ -4,7 +4,7 @@
 Heyy, I'm **Harini** — tea-fueled CSE student at VIT Chennai, trying to automate life one side project at a time 😎  
 If it’s smart, quirky, or looks cool on the frontend *and* backend — I probably built it or broke it trying.  
 
-- 🔭 Currently brewing: A **smart quiz app** that levels up (literally) as you do 🎯  
+- 🔭 Currently brewing: A **smart fitness app** that levels up (literally) as you do 🎯  
 - 🌱 Currently learning: **Three.js**, **Node.js**, and how to make my LLMs less hallucinatey  
 - 📫 Find me at: [harini.selvakummar@gmail.com](mailto:harini.selvakummar@gmail.com)  
 - 🧠 Fun fact: Been dancing **Bharatanatyam** longer than I've been debugging 😅  
