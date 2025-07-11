@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Heyy, I'm **Harini** — tea-fueled CSE student at VIT Chennai, trying to automate life one side project at a time 😎  
+Heyy, I'm **Harini**,tea-fueled CSE student at VIT Chennai, trying to automate life one side project at a time 😎  
 If it’s smart, quirky, or looks cool on the frontend *and* backend — I probably built it or broke it trying.  
 
 - 🔭 Currently brewing: A **smart fitness app** that levels up (literally) as you do 🎯  
@@ -34,9 +34,9 @@ If it’s smart, quirky, or looks cool on the frontend *and* backend — I proba
 ## ⚠️ Warning
 
 My GitHub activity is powered by:
-- ☕ 3 cups of chai per bug
-- 🤦‍♀️ 4 "why is this not working"
-- 🐛 6 bugs created for every 1 fixed
+- ☕ 1 cups of chai per bug
+- 🤦‍♀️ 2 "why is this not working"
+- 🐛 3 bugs created for every 1 fixed
 
 ---
 
@@ -56,13 +56,13 @@ My GitHub activity is powered by:
 | Added console.log that lives forever | Forgot semicolon, broke build | Dark mode > Light mode | Code worked. Don’t know how | "It worked yesterday" |
 | Committed with message: "fix" | Fought Tailwind spacing for hours | Debugged more than coded | LLM said “I'm not sure…” | npm install broke everything |
 | VS Code theme = identity crisis | git push --force and prayed | Broke production on Friday | Named file: final_final_v2.js | Figma handoff? Pain. |
-| Quiz too smart for me | “5 more mins” to fix a bug | Learned lib to avoid real work | Coded in wrong file for 30 mins | Worked on friend’s laptop, not mine |
+| Committed with message: "pls work" | “5 more mins” to fix a bug | Learned lib to avoid real work | Coded in wrong file for 30 mins | Worked on friend’s laptop, not mine |
 
 ## ✨ Life Goals (via npm)
 
 ```bash
 npm install confidence
-npm install caffeine
+npm install tea
 npm install sleep --save-dev
 npm uninstall imposter-syndrome
 
